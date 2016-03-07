@@ -1,0 +1,7 @@
+source https://nuget.org/api/v2
+nuget log4net
+nuget Nancy
+nuget Nancy.Hosting.Self
+nuget Newtonsoft.Json
+nuget TinyIoc
+nuget Topshelf
